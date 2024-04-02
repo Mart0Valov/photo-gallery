@@ -8,6 +8,10 @@ const PhotoSchema = new mongoose.Schema({
     description: {
         type: mongoose.Schema.Types.String,
         required: true
+    },
+    imgUrl: {
+        type: mongoose.Schema.Types.String,
+        required: true
     }
     // TODO: implementing field for local photo url
 });
