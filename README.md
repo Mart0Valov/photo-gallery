@@ -4,6 +4,7 @@
   1. npm install
   2. npm run start:dev
 
+
 ##-photo-gallery-app
 ### In order to use the app. First go to the photo-gallery-app directory and run the following commands in the browser:
   1.npm install
